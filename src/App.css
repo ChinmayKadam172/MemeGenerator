@@ -1,0 +1,75 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Inter, sans-serif;
+	background-color: #282d35;
+}
+
+.nav {
+	display: flex;
+	align-items: center;
+	background-color: #21222a;
+	height: 90px;
+	padding: 30px 25px;
+}
+
+.nav-h3 {
+	margin-right: auto;
+	color: #61dafb;
+	font-weight: 700;
+	font-size: 22px;
+}
+.nav-h4 {
+	color: #deebf8;
+	font-weight: 600;
+}
+.nav-img {
+	width: 27px;
+}
+.main {
+	padding: 57px 27px;
+	color: white;
+}
+.main-h1 {
+	margin: none;
+	font-size: 39px;
+	letter-spacing: -0.05em;
+}
+.main-ul {
+	margin-top: 45px;
+}
+.main-ul > li {
+	line-height: 19px;
+	padding-block: 10px;
+}
+
+.main-ul > li::marker {
+	font-size: 1.4rem;
+	color: #61dafb;
+}
+
+/*My App CSS*/
+
+.Card {
+	margin-top: 100px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+}
+.img-pfp {
+	width: 176px;
+}
+.photo {
+	color: white;
+}
+
+.photo--card {
+	display: flex;
+	flex-direction: column;
+	margin-top: 100px;
+}
+.photo--card > p {
+	margin: none;
+}
