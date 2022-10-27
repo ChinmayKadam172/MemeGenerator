@@ -1,3 +1,7 @@
+The website is hosted <a href="https://storied-lollipop-2ee606.netlify.app/"> HERE </a>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
